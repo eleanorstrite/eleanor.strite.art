@@ -1,0 +1,33 @@
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="le-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c1a23" />
+      <stop offset="100%" stop-color="#0b394d" />
+    </linearGradient>
+    <linearGradient id="le-wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#62c2ff" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#f6fdff" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#le-bg)" />
+  <path
+    d="M0 900 Q 200 840 400 900 T 800 900 T 1200 900 L 1200 1600 L 0 1600 Z"
+    fill="#0c5068"
+  />
+  <path
+    d="M0 960 Q 180 920 360 960 T 720 960 T 1200 960"
+    stroke="url(#le-wave)"
+    stroke-width="90"
+    fill="none"
+    stroke-linecap="round"
+  />
+  <path
+    d="M0 1080 Q 180 1030 360 1080 T 720 1080 T 1200 1080"
+    stroke="rgba(132, 218, 255, 0.45)"
+    stroke-width="70"
+    fill="none"
+    stroke-linecap="round"
+  />
+  <circle cx="900" cy="520" r="140" fill="#f0ffb0" fill-opacity="0.35" />
+  <circle cx="300" cy="360" r="220" fill="#51a2ff" fill-opacity="0.25" />
+</svg>

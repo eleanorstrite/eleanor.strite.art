@@ -1,0 +1,21 @@
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mc-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050912" />
+      <stop offset="100%" stop-color="#202037" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#mc-bg)" />
+  <g stroke="#f8f0dc" stroke-opacity="0.35" fill="none" stroke-width="3">
+    <path d="M120 320 Q 380 420 600 320 T 1080 360" />
+    <path d="M120 520 Q 280 600 420 520 T 780 500 T 1080 560" />
+    <path d="M120 760 Q 360 680 520 800 T 900 780 T 1080 840" />
+    <path d="M120 1020 Q 260 940 420 1020 T 720 1040 T 1080 1100" />
+  </g>
+  <g stroke="#ff9178" stroke-width="6" stroke-linecap="round" stroke-opacity="0.7">
+    <path d="M280 280 L 520 560 L 740 460 L 1040 760" />
+    <path d="M200 900 L 420 1120 L 860 1260" />
+  </g>
+  <circle cx="360" cy="420" r="120" fill="#ffecc7" fill-opacity="0.18" />
+  <circle cx="860" cy="620" r="180" fill="#8c7eff" fill-opacity="0.25" />
+</svg>
