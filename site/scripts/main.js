@@ -1,7 +1,7 @@
 const artworks = [
   {
     id: 'how-to-draw-cover',
-    title: 'How to Draw · Luminous Cartography',
+    title: 'How to Draw · Dragon',
     medium: 'Digital guide · layered steps',
     category: 'how-to-draw',
     year: 2024,
