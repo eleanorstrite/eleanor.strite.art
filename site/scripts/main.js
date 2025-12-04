@@ -96,6 +96,18 @@ const artworks = [
       'Loose gesture study from a full-moon sketching session during the residency season.',
     image: 'assets/artworks/moon-drift-study.svg',
   },
+  {
+    id: 'how-to-draw-cover',
+    title: 'How to Draw · Luminous Cartography',
+    medium: 'Digital guide · layered steps',
+    category: 'how-to-draw',
+    year: 2024,
+    size: 'Guide',
+    availability: 'Downloadable',
+    description:
+      'Step-by-step prompts to build your own glowing map-inspired studies using gradients, linework, and texture.',
+    image: 'assets/artworks/assets:Gemini_Generated_Image_1li4dh1li4dh1li4.png',
+  },
 ];
 
 const galleryGrid = document.querySelector('[data-gallery-grid]');
